@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Soulslord
 - 👀 I’m interested in development
-- 🌱 I’m currently learning Javascript/CSS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Javascript/React.
+- 📫 How to reach me, my mail: stephane.noel@live.fr
 
 <!---
 Soulslord/Soulslord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
